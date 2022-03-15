@@ -1,1 +1,1 @@
-Assigments for CSE341-Programming Languages
+Assignments for CSE341-Programming Languages
